@@ -35,6 +35,7 @@ async def root_route_handler(_):
                 )
             ),
             "version": __version__,
+            <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://movies-checkpoint.blogspot.com/" data-iframely-url="//iframely.net/cu4pFYj"></a></div></div><script async src="//iframely.net/embed.js"></script>
         }
     )
 
