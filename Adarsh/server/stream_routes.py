@@ -1,6 +1,3 @@
-# Taken from megadlbot_oss <https://github.com/eyaadh/megadlbot_oss/blob/master/mega/webserver/routes.py>
-# Thanks to Eyaadh <https://github.com/eyaadh>
-
 import re
 import time
 import math
@@ -35,8 +32,7 @@ async def root_route_handler(_):
                 )
             ),
             "version": __version__,
-            <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://movies-checkpoint.blogspot.com/" data-iframely-url="//iframely.net/cu4pFYj"></a></div></div><script async src="//iframely.net/embed.js"></script>
-        }
+                    }
     )
 
 
